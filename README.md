@@ -1,9 +1,12 @@
-<!-- Wave Animation Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=200&amp;section=header&amp;text=Ahmad%20Dika%20Styansah&amp;fontSize=45&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Network%20%26%20Cloud%20Engineer%20%7C%20CCNA%20Certified&amp;descAlignY=58&amp;descSize=18" />
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&height=45&lines=🌐+Network+%26+Cloud+Enthusiast;🎓+Computer+Engineering+%40+Undip;📜+CCNA+%7C+BNSP+Certified;🤖+Custom+ROM+%26+Kernel+Builder+(kinda...);🚀+Always+Hungry+to+Learn!" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Ahmad Dika Styansah
+
+**`Network & Cloud Engineer | CCNA Certified | UNDIP Computer Engineering`**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&height=45&lines=🌐+Network+%26+Cloud+Enthusiast;🎓+Computer+Engineering+%40+Undip;📜+CCNA+%7C+BNSP+Certified;🤖+Custom+ROM+%26+Kernel+Builder+(kinda...);🚀+Always+Hungry+to+Learn!" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmad-dika-styansah">
@@ -145,9 +148,6 @@
 
 ---
 
-<!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=120&amp;section=footer" />
-
 <p align="center">
-  <i>✨ "The network is the computer." — Ahmad Dika Styansah | UNDIP Computer Engineering ✨</i>
+  <b>✨ "The network is the computer." — Ahmad Dika Styansah | UNDIP Computer Engineering ✨</b>
 </p>
