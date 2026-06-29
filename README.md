@@ -1,8 +1,8 @@
 <!-- Wave Animation Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00C8FF&height=200&section=header&text=Ahmad%20Dika%20Styansah&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Network%20%26%20Cloud%20Engineer%20%7C%20CCNA%20Certified&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Ahmad%20Dika%20Styansah&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Network%20%26%20Cloud%20Engineer%20%7C%20CCNA%20Certified&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&height=45&lines=🌐+Network+%26+Cloud+Enthusiast;🎓+Computer+Engineering+@+Undip;📜+CCNA+%7C+BNSP+Certified;🤖+Custom+ROM+%26+Kernel+Builder+(kinda...);🚀+Always+Hungry+to+Learn!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&height=45&lines=🌐+Network+%26+Cloud+Enthusiast;🎓+Computer+Engineering+%40+Undip;📜+CCNA+%7C+BNSP+Certified;🤖+Custom+ROM+%26+Kernel+Builder+(kinda...);🚀+Always+Hungry+to+Learn!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -143,12 +143,10 @@
   <img src="https://raw.githubusercontent.com/dkaastyns/dkaastyns/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> ⚠️ **Note:** To enable the snake animation, add a GitHub Action workflow to generate it. See [platane/snk](https://github.com/platane/snk) for setup.
-
 ---
 
 <!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" />
 
 <p align="center">
   <i>✨ "The network is the computer." — Ahmad Dika Styansah | UNDIP Computer Engineering ✨</i>
