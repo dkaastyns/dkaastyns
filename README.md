@@ -1,5 +1,5 @@
 <!-- Wave Animation Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Ahmad%20Dika%20Styansah&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Network%20%26%20Cloud%20Engineer%20%7C%20CCNA%20Certified&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=200&amp;section=header&amp;text=Ahmad%20Dika%20Styansah&amp;fontSize=45&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Network%20%26%20Cloud%20Engineer%20%7C%20CCNA%20Certified&amp;descAlignY=58&amp;descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&height=45&lines=🌐+Network+%26+Cloud+Enthusiast;🎓+Computer+Engineering+%40+Undip;📜+CCNA+%7C+BNSP+Certified;🤖+Custom+ROM+%26+Kernel+Builder+(kinda...);🚀+Always+Hungry+to+Learn!" alt="Typing SVG" />
@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/ahmad-dika-styansah">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ahmaddikastyansah0@gmail.com">
+  <a href="mailto:EMAIL_KAMU">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/dkastyns">
@@ -146,7 +146,7 @@
 ---
 
 <!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=120&amp;section=footer" />
 
 <p align="center">
   <i>✨ "The network is the computer." — Ahmad Dika Styansah | UNDIP Computer Engineering ✨</i>
