@@ -132,10 +132,10 @@
 
 ---
 
-## 🏆 Trophy Cabinet
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dkaastyns&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dkaastyns&theme=tokyo-night&hide_border=true&area=true&color=00C8FF&line=00C8FF&point=ffffff" width="95%" />
 </p>
 
 ---
